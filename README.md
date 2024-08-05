@@ -19,6 +19,8 @@
 </p>
 
 
+
+<!---
 <div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayChung0258)](https://github.com/JayChung0258/github-readme-stats)
@@ -36,3 +38,5 @@
 </picture>
   
 </div>
+
+-->
