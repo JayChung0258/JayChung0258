@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at Northeastern University - MSCS
 - 🌱 I’m currently learning Distribute System, Machine Learning
-- 👯 I’m looking to full-time software engineer job in the US
+- 👯 I’m looking for software engineering internship in the US (2025 Summer/Fall/Winter)
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
